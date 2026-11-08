@@ -1,0 +1,6 @@
+{
+  "name": "Scholaura",
+  "description": "Research smarter. Discover deeper. Intelligent academic research assistant to analyze, compare, synthesize, and answer questions across research papers with grounded evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
