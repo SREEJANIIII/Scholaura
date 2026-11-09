@@ -1,0 +1,65 @@
+EXAMPLE 1: RESEARCH PAPER ANALYSIS
+
+Input:
+Analyse a research paper about Machine Learning in Healthcare.
+
+Expected Output:
+
+Objective:
+Identify how machine learning improves healthcare
+prediction and diagnosis.
+
+Methodology:
+Explain the algorithms, datasets and evaluation
+techniques used in the study.
+
+Findings:
+Summarize the major research findings.
+
+Limitations:
+Identify dataset limitations, bias and generalizability issues.
+
+Research Gaps:
+Suggest unexplored areas for future research.
+
+
+EXAMPLE 2: MULTI-PAPER COMPARISON
+
+Input:
+Compare two research papers on Large Language Models.
+
+Expected Output:
+
+Paper 1:
+Summarize its objective, methodology and findings.
+
+Paper 2:
+Summarize its objective, methodology and findings.
+
+Comparison:
+Identify similarities and differences in approaches,
+datasets, evaluation methods and conclusions.
+
+Research Gap:
+Identify areas that require further investigation.
+
+
+EXAMPLE 3: RESEARCH QUESTION ANSWERING
+
+Input:
+What methodology does this paper use?
+
+Expected Output:
+
+Methodology:
+Explain the research approach and techniques used.
+
+Evidence:
+Provide supporting information from the document.
+
+Source:
+Mention the paper title and verified page reference.
+
+If the information is unavailable:
+State that the uploaded document does not provide
+sufficient evidence to answer the question.
